@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://pin-up.vintadv.com.ua/sitemap.xml
+Host: pin-up.vintadv.com.ua
